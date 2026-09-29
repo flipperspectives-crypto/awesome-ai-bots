@@ -30,6 +30,9 @@ Agents that can plan, reason, and take multi-step actions in an environment with
 | [LangChain Agent](https://python.langchain.com/docs/modules/agents/) | Framework | ✅ | Pluggable agent framework with tool use, memory, and chains for building autonomous agents. |
 | [OpenAgent](https://github.com/LAION-AI/Open-Assistant) | Conversational | ✅ | Open-source alternative to ChatGPT with a growing ecosystem of agent tools. |
 | [HuggingGPT](https://github.com/microsoft/JARVIS) | Task automation | ✅ | Microsoft's agent that uses ChatGPT to plan and execute tasks via Hugging Face tools. |
+| [Muse](https://ai.meta.com/muse/) | Personal agent | ❌ | Meta's personal AI agent that browses the web, connects to apps, and completes multi-step tasks (email, travel, shopping) with your direction and oversight. |
+| [Dots](https://openai.com) | Computer-use agent | ❌ | OpenAI's computer-use agent built on its latest model; runs on a cloud computer to navigate apps and websites like a human. |
+| [Grok Bot](https://x.ai/bot) | Team agent | ❌ | xAI's always-on AI teammates that have their own computer, work inside tools & apps, and keep working 24/7. |
 
 ## Coding Assistants
 
@@ -101,6 +104,11 @@ Simple conversational bots and chat interfaces.
 | [Ollama](https://ollama.com) | Local chat | ✅ | Run LLMs locally with a simple chat interface. |
 | [Chatbot UI](https://github.com/mckaywrig/ChatBot) | Chat UI | ✅ | Open-source ChatGPT interface built with Next.js and React. |
 | [Flowise](https://github.com/HausDev1/CheatSheet) | Chatflow builder | ✅ | Drag-and-drop UI for building LLM flows and chatbots. |
+| [Grok](https://grok.com) | Conversational | ❌ | xAI's AI chatbot with real-time X search, voice, image/video generation, and coding help. |
+| [Meta AI](https://ai.meta.com) | Conversational | ❌ | Meta's assistant available across Facebook, Instagram, WhatsApp, and web — answers questions and generates images. |
+| [DeepSeek](https://chat.deepseek.com) | Conversational | ❌ | DeepSeek's assistant with multilingual chat, reasoning, and coding support. |
+| [Poe](https://poe.com) | Multi-bot hub | ❌ | Hub granting access to many AI models (Claude, GPT, Gemini, Llama) and specialized bots. |
+| [Pi](https://heypi.com) | Conversational | ❌ | Inflection's personal AI focused on supportive, conversational interactions. |
 
 ---
 
