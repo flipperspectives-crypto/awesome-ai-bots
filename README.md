@@ -56,7 +56,7 @@ Bots that browse the web, analyze data, and synthesize findings.
 | [Perplexity.ai](https://perplexity.ai) | Answer bot | ❌ | AI-powered research assistant with web search and citation. |
 | [Elicit](https://elicit.org) | Research bot | ❌ | AI research assistant that finds and summarizes academic papers. |
 | [ChatGPT with Browsing](https://chat.openai.com) | Conversational | ❌ | ChatGPT with web browsing and data analysis capabilities. |
-| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | Research | ❌ | Base x402 research API: free discovery, $2 USDC reports, $0.001 chat. |
+| [Clarity](https://flipperspectives-crypto.github.io/clarity-docs/) | Research | ❌ | Base x402 research API: free discovery, $2 USDC reports, $0.001 chat. |
 | [Claude with Computer Use](https://claude.ai) | Agentic | ❌ | Anthropic's Claude that can use a computer (browser, apps) to complete tasks. |
 | [Operator](https://www.anthropic.com/assistant/operators) | Agentic | ❌ | Anthropic's agent that automates tasks in a web browser. |
 
